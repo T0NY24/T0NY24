@@ -7,7 +7,7 @@
       <img alt="dsmark" height="70px" width="70px" src="https://cdn.wccftech.com/wp-content/uploads/2015/06/fallout.gif">
     </td>
     <td align="center">
-      <h1>¡Hola, soy Anthony Perez! 👋</h1>
+      <h1>:space_invader:¡Hola, soy Anthony Perez! :space_invader:</h1>
     </td>
     <td align="right">
       <img alt="dsmark" height="70px" width="70px" src="https://cdn.wccftech.com/wp-content/uploads/2015/06/fallout.gif">
@@ -79,7 +79,7 @@
       <img alt="dsmark" height="100px" width="70px" src="https://i.gifer.com/origin/07/07702d49c5b1e40c67bd68c67762227e_w200.gif">
     </td>
     <td align="center">
-      <h1>¡Habilidades 👋</h1>
+      <h1>:mag:Habilidades :mag: </h1>
     </td>
     <td align="right">
       <img alt="dsmark" height="100px" width="70px" src="https://i.gifer.com/origin/07/07702d49c5b1e40c67bd68c67762227e_w200.gif">
@@ -115,7 +115,7 @@
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.c2abadcb93578d9277a856fd7c8cf70b?rik=rgpBgEbJt%2bGQsg&pid=ImgRaw&r=0">
     </td>
     <td align="center">
-      <h1>Experiencia Laboral</h1>
+      <h1>:telescope:Experiencia Laboral:telescope:</h1>
     </td>
     <td align="right">
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.c2abadcb93578d9277a856fd7c8cf70b?rik=rgpBgEbJt%2bGQsg&pid=ImgRaw&r=0">
@@ -131,7 +131,7 @@
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.8759f61f2bf4fec8fb8e618a0e355a87?rik=SjzzTLEK3yzf1g&pid=ImgRaw&r=0">
     </td>
     <td align="center">
-      <h1>Proyectos Destacados</h1>
+      <h1>:octocat:Proyectos Destacados :octocat:</h1>
     </td>
     <td align="right">
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.8759f61f2bf4fec8fb8e618a0e355a87?rik=SjzzTLEK3yzf1g&pid=ImgRaw&r=0">
@@ -158,7 +158,7 @@ Aplicación web para el control eficiente de inventarios, desarrollada con Flask
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.139e4088fc146d86f4871467be11f714?rik=Doi7ZVV%2ft7CSnQ&pid=ImgRaw&r=0">
     </td>
     <td align="center">
-      <h1>CONTACTAME </h1>
+      <h1>:wink:CONTACTAME :wink:</h1>
     </td>
     <td align="right">
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.746aef25a2229c5d1215c4e710593e37?rik=DgALIYtRsyMKrg&pid=ImgRaw&r=0">
@@ -167,8 +167,13 @@ Aplicación web para el control eficiente de inventarios, desarrollada con Flask
 </table>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"><img src="https://th.bing.com/th/id/R.aae16e4285fb0ac3e8415d33045184fa?rik=qKLs2QZioR6NcQ&pid=ImgRaw&r=0" width="90">
-
+<a href="https://www.linkedin.com/in/anthony-perez-086456223" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+</a><a href="https://wa.me/+593995309132" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100" alt="Escríbeme por WhatsApp">
+</a><a href="mailto:anperez322@hotmail.com" target="_blank">
+  <img src="https://th.bing.com/th/id/R.aae16e4285fb0ac3e8415d33045184fa?rik=qKLs2QZioR6NcQ&pid=ImgRaw&r=0" width="90" alt="Envíame un correo electrónico">
+</a>
 
 </p>
 
