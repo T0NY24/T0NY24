@@ -21,7 +21,7 @@
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador fullstack especializado en Flet y Flask
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  width="100"  >  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  width="100"><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
 
 <pre>
                                                                                          
@@ -158,7 +158,7 @@ Aplicación web para el control eficiente de inventarios, desarrollada con Flask
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.139e4088fc146d86f4871467be11f714?rik=Doi7ZVV%2ft7CSnQ&pid=ImgRaw&r=0">
     </td>
     <td align="center">
-      <h1>¡CONTACTAME </h1>
+      <h1>CONTACTAME </h1>
     </td>
     <td align="right">
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.746aef25a2229c5d1215c4e710593e37?rik=DgALIYtRsyMKrg&pid=ImgRaw&r=0">
@@ -167,9 +167,8 @@ Aplicación web para el control eficiente de inventarios, desarrollada con Flask
 </table>
 
 <p align="left">
-<a href="www.linkedin.com/in/anthony-perez-086456223" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="70" width="70" /></a>
-<a href="https://wa.me/+593 0995309132" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="70" width="70" /></a>
-<a href="mailto:anperez322@hotmail.com" target="_blank"><img align="center" src="https://th.bing.com/th/id/OIP.BYFhNb6a45lHwfVnEGjTLwHaHY?rs=1&pid=ImgDetMain" alt="Correo Hotmail" height="70" width="70" /></a>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"><img src="https://th.bing.com/th/id/R.aae16e4285fb0ac3e8415d33045184fa?rik=qKLs2QZioR6NcQ&pid=ImgRaw&r=0" width="90">
+
 
 </p>
 
@@ -193,3 +192,6 @@ Aplicación web para el control eficiente de inventarios, desarrollada con Flask
 
 
 ¡Gracias por visitar! No dudes en explorar mis repositorios y proyectos. Si te gusta lo que ves, ¡considera dejar una ⭐ en los repositorios que encuentres interesantes!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1100">
+<br><br>
