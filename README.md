@@ -72,22 +72,22 @@
   
                                                    !!!!! BIENVENIDO !!!!!!
 </pre>
-
+<img align="right" alt="GIF" height="300px" img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" />
 <table style="width: 100%; margin: 0 auto;">
   <tr>
     <td align="left">
-      <img alt="dsmark" height="100px" width="70px" src="https://i.pinimg.com/originals/59/38/5d/59385d3738912c4ca2163a7dd47251da.gif">
+      <img alt="dsmark" height="100px" width="70px" src="https://i.gifer.com/origin/07/07702d49c5b1e40c67bd68c67762227e_w200.gif">
     </td>
     <td align="center">
       <h1>¡Habilidades 👋</h1>
     </td>
     <td align="right">
-      <img alt="dsmark" height="100px" width="70px" src="https://i.pinimg.com/originals/59/38/5d/59385d3738912c4ca2163a7dd47251da.gif">
+      <img alt="dsmark" height="100px" width="70px" src="https://i.gifer.com/origin/07/07702d49c5b1e40c67bd68c67762227e_w200.gif">
     </td>
   </tr>
 </table>
 
-<img align="right" alt="GIF" height="300px" img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" />
+
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -151,7 +151,7 @@ Desarrollo de una plataforma educativa interactiva utilizando Flet para el backe
 Aplicación web para el control eficiente de inventarios, desarrollada con Flask y base de datos MySQL.
 
 
-
+<img img align="right" alt="GIF" height="200px" src="https://cdn-media-1.freecodecamp.org/images/0*0dsNUILlWp9u8hCF.gif">
 <table style="width: 100%;">
   <tr>
     <td align="left">
