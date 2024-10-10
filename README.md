@@ -1,4 +1,7 @@
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+<img src="img/FONDOPROPIO.gif"  width="5200" >
+
+
+
 
 
 <table style="width: 100%; margin: 0 auto;">
@@ -7,7 +10,7 @@
       <img alt="dsmark" height="70px" width="70px" src="https://cdn.wccftech.com/wp-content/uploads/2015/06/fallout.gif">
     </td>
     <td align="center">
-      <h1>:space_invader:¡Hola, soy Anthony Perez! :space_invader:</h1>
+      <img src="img/sobremi.gif"  width="300" >
     </td>
     <td align="right">
       <img alt="dsmark" height="70px" width="70px" src="https://cdn.wccftech.com/wp-content/uploads/2015/06/fallout.gif">
@@ -15,71 +18,17 @@
   </tr>
 </table>
 
+<img src="img/fotofrente.gif"  width="300" >
 
 
-
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador fullstack especializado en Flet y Flask
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  width="100"><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-
-<pre>
-                                                                                         
-                            ..                                           .:.              
-     ..            .        ..                            .-=     ::...-*+-+*-            
-      ...          ..       ..                           +*%+. :**=--*#+:....=++=:        
-       ....        ..      ....       ..                =*.:+++-................-#+       
-         ...        ..     ...       ..                 ++.....:++++:.-=**:.......+-      
-          ....      ...    .  .    ....                =%*=::=*=:..:=+=-=*%=.......+#:    
-            ...           :+#%%%%=    .:-=---. .       #--#+**=...........:*+==+*+-.-%:   
-  .          ...       :+%###*#@@+ :===++++=%=         =%*:.:-:........-*-.......+@-.=%.  
-   ...              .=##***+--:#*.**:-%@@#+*@=        .#=..+=..........:+%-.....:+%-.:@-  
-      ....        .+%**#+--====-#%#:-@%+=+**+*+.     .%=..=@*...-+....--..:....=%=...:@:  
-        ..      .+%+*#+---:::::::#+:%*     :**=#-    #*....-..-#+....-@#.......+**-..##   
-              .+%+*#=--:::::::::::+%@.       =#-%-  :@:.....:%#:.....:+:......:****:+@:   
-             -%++#=::::::::::::::::=%+        #*+%  +%.......#%...............=*+##%@:    
-  .....    .##+#+:::::::::::::::::::-+#-      ##+@. +%.+%-:.........=.........*--*@%.     
-          -%+*#--::::::::::::::::::::--#*.   -@+#%  -@:=*-:::-------+%=..........#%       
-         +%+#=--::..  ..:::::::::::::---=#+:+@+=@+   %*..:=+=-:::----#*..........+@.      
-        #%+#-=-::.      .::::::::::::-----+@%=-+@:   :%=...:+#+--:...-......:--=*%-       
- .... .%%*#-==:::         .:::::::::::-----=#%==@:-=++*@+...:::...........:*%*=-.         
-      #@**-==-:::.         .::::::::::------=+%##@%@@++%##=............:=#@*:             
-      @%@*+=--:::::.         .::::::::-------==#@@@@%+#%::=#+-.......:+*@%=+***=.         
-      +@@%=-#%#=-::::..        .::::::-------===*@@*++%*::::#@@#=-.:-=*%+::::*%*##=.      
-       .. =#*=-=%%*=::::..        .::---------===+@+++*%-::::-=*****+=-:::::*%++++*#*:    
-   ...  .*-:=#%*=-:=**=::::..       .---------====##+++#%-::::::::::::::::=%#++++++++%*   
-  .     +==@@%.       =**=:::::..     .:------=====@++++*@::::::::::::-=*%#+++++++++++%#  
-        #:%@*%.         -#%*=--:::::.. .-------====@*+++*@::::::-*#####*+++++++++++++++@* 
-        *==-%=*=      .#*==%*=*%***==--===----====%@*+++%*:::::-@*+++++++++++++++++++++#@.
-        :%*##*+=**=---**.=@:..%=.-@=============+%@###+*@-:::::##++++++++**++++++++++++*@:
-              :+*+==++##.+#..-@:.:#@@#*++====+*%@%=-=@%%#-++=--@*++++++++%@++++++++++++#@.
-       ..        :-=+++#+.:...+....:-#@#%%%###*#%*+#+:-+%@*##*%%*#*+##++#@#++++++++++++%* 
-                  ..    =*-......:-+#%*++++++++++%%%*::-#**#-=%=#+:::@%%@%++++++++++++#%. 
-                 ..      .-+**%%%##*+++++++++++++@#+%%***#+-+#-:-%::*##@#++++++++++++#%.  
-                 ..           .=##*++++++++++*#%@@**@+**+-=#+::-%=:*@@@*++++++++++++%%:   
-                ..               .-+*###%%%%#*=-+@++%%=-+#+:::+%-:#@@#++++++++++++#@*.    
-                .                               +@#**#%%=-###%+:+@@%*+++++++++++*@@-      
-                                                %*:=+*@**+#:-+*%@#*+++++++++++*%@@=       
-                                               .@+:::-#:::+%...+@+++++++++++#%%*%%.       
-                                               :@-::-+%***+:....+%*++++++*%@%=-%%.        
-                                               *@%##@+----====...:*#%%#%@@@*:=@@:         
-                                               %#++*#%%@%=-::::-....-*@@@#--#@%@+         
-                                              =@*+++++++*#%@#++=+*#@@@@*--#@#++@%         
-                                              #@++++++++++++@%@@@@@%*=-+%@#++++#@-        
-                                             .@#++++++++++++*@#+=---+#@%*++++++*@#        
-                                             +@*++++++++++++++#%@@@%#*++++++++++%@.       
-                                             %%++++++++++++++*@%++++++++++++++++*@*  
-  
-                                                   !!!!! BIENVENIDO !!!!!!
-</pre>
-<img align="right" alt="GIF" height="300px" img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" />
+<img align="right" alt="GIF" height="300px" img src="img/logo.gif" width="300" />
 <table style="width: 100%; margin: 0 auto;">
   <tr>
     <td align="left">
       <img alt="dsmark" height="100px" width="70px" src="https://i.gifer.com/origin/07/07702d49c5b1e40c67bd68c67762227e_w200.gif">
     </td>
     <td align="center">
-      <h1>:mag:Habilidades :mag: </h1>
+       <img alt="dsmark"  width="300px" src="img/habilidades.gif">
     </td>
     <td align="right">
       <img alt="dsmark" height="100px" width="70px" src="https://i.gifer.com/origin/07/07702d49c5b1e40c67bd68c67762227e_w200.gif">
@@ -109,21 +58,6 @@
 <br>
 
 
-<table style="width: 100%;">
-  <tr>
-    <td align="left">
-      <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.c2abadcb93578d9277a856fd7c8cf70b?rik=rgpBgEbJt%2bGQsg&pid=ImgRaw&r=0">
-    </td>
-    <td align="center">
-      <h1>:telescope:Experiencia Laboral:telescope:</h1>
-    </td>
-    <td align="right">
-      <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.c2abadcb93578d9277a856fd7c8cf70b?rik=rgpBgEbJt%2bGQsg&pid=ImgRaw&r=0">
-    </td>
-  </tr>
-</table>
-
-- **Programador Independiente**: Proyectos personalizados de desarrollo web con Flet, enfocados en la optimización de rendimiento y la escalabilidad.
 
 <table style="width: 100%;">
   <tr>
@@ -158,7 +92,7 @@ Aplicación web para el control eficiente de inventarios, desarrollada con Flask
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.139e4088fc146d86f4871467be11f714?rik=Doi7ZVV%2ft7CSnQ&pid=ImgRaw&r=0">
     </td>
     <td align="center">
-      <h1>:wink:CONTACTAME :wink:</h1>
+      <img src="img/contacto.gif"  width="300" >
     </td>
     <td align="right">
       <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.746aef25a2229c5d1215c4e710593e37?rik=DgALIYtRsyMKrg&pid=ImgRaw&r=0">
@@ -179,7 +113,6 @@ Aplicación web para el control eficiente de inventarios, desarrollada con Flask
 
 
 
-
 #### Programming Languages
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](#)
@@ -196,7 +129,10 @@ Aplicación web para el control eficiente de inventarios, desarrollada con Flask
 
 
 
-¡Gracias por visitar! No dudes en explorar mis repositorios y proyectos. Si te gusta lo que ves, ¡considera dejar una ⭐ en los repositorios que encuentres interesantes!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1100">
+¡Gracias por visitar! No dudes en explorar mis repositorios y proyectos. Puedes ayudarme con donaciones en el siguiente boton
+<p align="left">
+<a href="https://paypal.me/skyshoked" target="_blank">
+  <img src="img/donaciones.gif" width="300">
+</p>
+<img src="img/final.png" width="1000">
 <br><br>
