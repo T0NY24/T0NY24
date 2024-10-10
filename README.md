@@ -21,7 +21,7 @@
 <img src="img/fotofrente.gif"  width="300" >
 
 
-<img align="right" alt="GIF" height="300px" img src="img/logo.gif" width="300" />
+<img align="right" alt="GIF" height="300px" img src="img/logo EXa.png" width="300" />
 <table style="width: 100%; margin: 0 auto;">
   <tr>
     <td align="left">
