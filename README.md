@@ -4,19 +4,9 @@
 
 
 
-<table style="width: 100%; margin: 0 auto;">
-  <tr>
-    <td align="left">
-      <img alt="dsmark" height="70px" width="70px" src="https://cdn.wccftech.com/wp-content/uploads/2015/06/fallout.gif">
-    </td>
-    <td align="center">
-      <img src="img/sobremi.gif"  width="300" >
-    </td>
-    <td align="right">
-      <img alt="dsmark" height="70px" width="70px" src="https://cdn.wccftech.com/wp-content/uploads/2015/06/fallout.gif">
-    </td>
-  </tr>
-</table>
+
+<img src="img/sobremi.gif"  width="300" >
+   
 <div >
 𝔜𝔬 𝔫𝔬 𝔰𝔬𝑦 𝔩𝔞 𝔠𝔞𝔟𝔯𝔞, 𝑦𝔬 𝔰𝔬𝑦 𝔈𝔩 𝓒𝔬𝔫𝔢𝔧𝔬
 𝓒𝔞𝔟𝔯𝔬́𝔫, 𝔢𝔩 𝔪𝔢𝔧𝔬𝔯
@@ -31,19 +21,10 @@
 
 
 <img align="right" alt="GIF" height="300px" img src="img/logo EXa.png" width="300" />
-<table style="width: 100%; margin: 0 auto;">
-  <tr>
-    <td align="left">
-      <img alt="dsmark" height="100px" width="70px" src="https://i.gifer.com/origin/07/07702d49c5b1e40c67bd68c67762227e_w200.gif">
-    </td>
-    <td align="center">
-       <img alt="dsmark"  width="300px" src="img/habilidades.gif">
-    </td>
-    <td align="right">
-      <img alt="dsmark" height="100px" width="70px" src="https://i.gifer.com/origin/07/07702d49c5b1e40c67bd68c67762227e_w200.gif">
-    </td>
-  </tr>
-</table>
+<td align="center">
+  <img alt="dsmark"  width="300px" src="img/habilidades.gif">
+</td>
+
 
 
 <table>
@@ -67,47 +48,12 @@
 <br>
 
 
-
-<table style="width: 100%;">
-  <tr>
-    <td align="left">
-      <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.8759f61f2bf4fec8fb8e618a0e355a87?rik=SjzzTLEK3yzf1g&pid=ImgRaw&r=0">
-    </td>
-    <td align="center">
-      <h1>:octocat:Proyectos Destacados :octocat:</h1>
-    </td>
-    <td align="right">
-      <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.8759f61f2bf4fec8fb8e618a0e355a87?rik=SjzzTLEK3yzf1g&pid=ImgRaw&r=0">
-    </td>
-  </tr>
-</table>
-
-
-### Proyecto 1: Reproductor MP3 multiplataforma de Codigo Abierto (Proyecto en Desarrollo)
-
-Desarrollo de una plataforma educativa interactiva utilizando Flet para el backend y React.js para el frontend.
-
-
-
-### Proyecto 2: NidoEducativo (Proyecto En desarrollo)
-
-Aplicación web para el control eficiente de inventarios, desarrollada con Flask y base de datos MySQL.
-
-
 <img img align="right" alt="GIF" height="200px" src="https://cdn-media-1.freecodecamp.org/images/0*0dsNUILlWp9u8hCF.gif">
-<table style="width: 100%;">
-  <tr>
-    <td align="left">
-      <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.139e4088fc146d86f4871467be11f714?rik=Doi7ZVV%2ft7CSnQ&pid=ImgRaw&r=0">
-    </td>
-    <td align="center">
-      <img src="img/contacto.gif"  width="300" >
-    </td>
-    <td align="right">
-      <img alt="dsmark" height="70px" width="70px" src="https://th.bing.com/th/id/R.746aef25a2229c5d1215c4e710593e37?rik=DgALIYtRsyMKrg&pid=ImgRaw&r=0">
-    </td>
-  </tr>
-</table>
+
+<img src="img/contacto.gif"  width="300" >
+   
+
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anthony-perez-086456223" target="_blank">
