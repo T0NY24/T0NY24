@@ -84,7 +84,7 @@
 
 
 
-¡Gracias por visitar! No dudes en explorar mis repositorios y proyectos. Puedes ayudarme con donaciones en el siguiente boton
+(｡♥‿♥｡)¡𝙂𝙧𝙖𝙘𝙞𝙖𝙨 𝙥𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙖𝙧! 𝙉𝙤 𝙙𝙪𝙙𝙚𝙨 𝙚𝙣 𝙚𝙭𝙥𝙡𝙤𝙧𝙖𝙧 𝙢𝙞𝙨 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙤𝙨 𝙮 𝙥𝙧𝙤𝙮𝙚𝙘𝙩𝙤𝙨. 𝙋𝙪𝙚𝙙𝙚𝙨 𝙖𝙮𝙪𝙙𝙖𝙧𝙢𝙚 𝙘𝙤𝙣 𝙙𝙤𝙣𝙖𝙘𝙞𝙤𝙣𝙚𝙨 𝙚𝙣 𝙚𝙡 𝙨𝙞𝙜𝙪𝙞𝙚𝙣𝙩𝙚 𝙗𝙤𝙩𝙤𝙣(｡♥‿♥｡)
 <p align="left">
 <a href="https://paypal.me/skyshoked" target="_blank">
   <img src="img/donaciones.gif" width="300">
